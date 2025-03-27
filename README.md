@@ -117,7 +117,4 @@ TO ADD
 ```
 
 ## Contact
-If you have any question, please contact me at `
-```
-singlan.nina@gmail.com
-```
+If you have any question, please contact me at [singlan.nina@gmail.com](mailto:singlan.nina@gmail.com)
