@@ -1,0 +1,11 @@
+name: SIMBA
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - scipy
+  - scikit-learn
+  - numpy
+  - pip:
+      - scikit-network
+      - pyunionfind
