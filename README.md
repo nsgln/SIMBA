@@ -1,5 +1,5 @@
 # A new Similarity Based Adapted Louvain Algorithm (SIMBA) for active module identification in p-value attributed biological networks
-This repository contains the code needed to execute the SIMBA algorithm and reproduice the results presented in *A new Similarity Based Adapted Louvain Algorithm (SIMBA) for active module identification in p-value attributed biological networks*.
+This repository contains the code needed to execute the SIMBA algorithm and reproduice the results presented in Singlan, N., Abou Choucha, F. & Pasquier, C. A new Similarity Based Adapted Louvain Algorithm (SIMBA) for active module identification in p-value attributed biological networks. Sci Rep 15, 11360 (2025). https://doi.org/10.1038/s41598-025-95749-6.
 
 ## Table of contents
 * [Installation](#installation)
@@ -113,7 +113,21 @@ The following packages are required to run the code:
 ## Cite
 If you use this code, please cite the following paper:
 ```bibtex
-TO ADD
+@article{Singlan2025,
+   author = {Nina Singlan and Fadi Abou Choucha and Claude Pasquier},
+   doi = {10.1038/s41598-025-95749-6},
+   issn = {2045-2322},
+   issue = {1},
+   journal = {Scientific Reports 2025 15:1},
+   keywords = {Bioinformatics,Gene expression analysis,Similarity-based clustering},
+   month = {4},
+   pages = {1-16},
+   publisher = {Nature Publishing Group},
+   title = {A new Similarity Based Adapted Louvain Algorithm (SIMBA) for active module identification in p-value attributed biological networks},
+   volume = {15},
+   url = {https://www.nature.com/articles/s41598-025-95749-6},
+   year = {2025}
+}
 ```
 
 ## Contact
